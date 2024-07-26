@@ -1,0 +1,14 @@
+C:\0\Dropbox\projects\dotnet-server\socket-client\bin\Debug\net9.0\socket-client.exe
+C:\0\Dropbox\projects\dotnet-server\socket-client\bin\Debug\net9.0\socket-client.deps.json
+C:\0\Dropbox\projects\dotnet-server\socket-client\bin\Debug\net9.0\socket-client.runtimeconfig.json
+C:\0\Dropbox\projects\dotnet-server\socket-client\bin\Debug\net9.0\socket-client.dll
+C:\0\Dropbox\projects\dotnet-server\socket-client\bin\Debug\net9.0\socket-client.pdb
+C:\0\Dropbox\projects\dotnet-server\socket-client\obj\Debug\net9.0\socket-client.GeneratedMSBuildEditorConfig.editorconfig
+C:\0\Dropbox\projects\dotnet-server\socket-client\obj\Debug\net9.0\socket-client.AssemblyInfoInputs.cache
+C:\0\Dropbox\projects\dotnet-server\socket-client\obj\Debug\net9.0\socket-client.AssemblyInfo.cs
+C:\0\Dropbox\projects\dotnet-server\socket-client\obj\Debug\net9.0\socket-client.csproj.CoreCompileInputs.cache
+C:\0\Dropbox\projects\dotnet-server\socket-client\obj\Debug\net9.0\socket-client.dll
+C:\0\Dropbox\projects\dotnet-server\socket-client\obj\Debug\net9.0\refint\socket-client.dll
+C:\0\Dropbox\projects\dotnet-server\socket-client\obj\Debug\net9.0\socket-client.pdb
+C:\0\Dropbox\projects\dotnet-server\socket-client\obj\Debug\net9.0\socket-client.genruntimeconfig.cache
+C:\0\Dropbox\projects\dotnet-server\socket-client\obj\Debug\net9.0\ref\socket-client.dll
